@@ -1,14 +1,9 @@
-WU Big Data Kafka
-
-
-5027221046 - Imam Nurhadi
-
-5027221045 - Gilang Raya Kurniawan
+![Screenshot 2024-11-04 175034](https://github.com/user-attachments/assets/758c97a1-9fa2-46ac-941e-cfac1ba45770)WU Big Data Kafka
 
 WU Big Data Kafka
 
-
 5027221046 - Imam Nurhadi
+
 5027221045 - Gilang Raya Kurniawan
 
 Download kafka dari apache kafka versi binary
@@ -69,6 +64,8 @@ finally:
 ```
 Maka akan keluar hasil seperti di bawah secara real time, hasil tersebut disimpan di server kafka dengan nama sensor-suhu
 
+![Screenshot 2024-11-04 175034](https://github.com/user-attachments/assets/81db4f40-9151-4072-a7f0-95044faa190e)
+
 jika library kafka python error gunakan versi dibawah
 pip install git+https://github.com/dpkp/kafka-python.git
 
@@ -122,12 +119,10 @@ query.awaitTermination()
 
 Kode diatas menggunakan sensor-suhu hasil produksi kafka dan membacanya menggunakan pyspark dimana kode diatas memfilter suhu yang berada diatas 80% dan print hasil ke terminal secara real time
 
+![Screenshot 2024-11-04 174918](https://github.com/user-attachments/assets/63f37c3b-fca3-4910-bbcc-bf9d92c4aa4d)
 
 
 jika pyspark tidak bisa membaca server kafka gunakan 
 https://github.com/steveloughran/winutils/releases/tag/tag_2017-08-29-hadoop-2.8.1-native
 
 Ekstrak masukkan ke Hadoop/bin
-
-
-https://docs.google.com/document/d/1_SJh-b5UAYCO5vigPfLJd5VzQBoPWJNr0COYSGUD3gY/edit?usp=sharing
