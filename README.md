@@ -1,7 +1,3 @@
-![Screenshot 2024-11-04 175034](https://github.com/user-attachments/assets/758c97a1-9fa2-46ac-941e-cfac1ba45770)WU Big Data Kafka
-
-WU Big Data Kafka
-
 5027221046 - Imam Nurhadi
 
 5027221045 - Gilang Raya Kurniawan
